@@ -5,7 +5,7 @@ from PIL import ImageGrab, ImageChops, Image
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-rarity_whitelist = {"rare","epic", "legendary", "mythical"}
+rarity_whitelist = {"epic", "legendary", "mythical"}
 
 roll_button_pos = (2445, 971)
 button_region = (2379, 957, 2529, 992)
