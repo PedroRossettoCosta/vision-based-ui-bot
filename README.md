@@ -27,9 +27,6 @@ Install the required Python packages:
 pip install -r requirements.txt
 requirements.txt contains:
 
-nginx
-Copy
-Edit
 pytesseract
 pyautogui
 pillow
