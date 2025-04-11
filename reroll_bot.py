@@ -11,7 +11,7 @@ roll_button_pos = (2445, 971)
 button_region = (2379, 957, 2529, 992)
 family_region = (2136, 912, 2486, 947)
 
-wait_time_to_click = 4.5
+wait_time_to_click = 3.7
 
 def read_text(region):
     img = ImageGrab.grab(bbox = region)
